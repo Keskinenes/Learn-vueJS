@@ -1,0 +1,3 @@
+                    ------    SCOPED     -------
+        <style scoped > olarak eklenir ve burada uygulanan stiller sadece bu
+        sayfaya özel olarak ayarlanır. Normalde bütün sayfalara ayarlanırdı.
